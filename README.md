@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eriimarie
 - 👀 I’m interested in programming and weather systems
 - 🌱 I’m currently learning python and Java
-- 💞️ I’m looking to collaborate on as of now no one... I wouldl like to
+- 💞️ I’m looking to collaborate on as of now no one... I wouldl like to create more projects/ working on this 
 - 📫 How to reach me here or erikalinares1989@gmail.com
 
 <!---
