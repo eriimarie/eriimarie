@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eriimarie
-- 👀 I’m interested in programming and weather systems
+- 👀 I’m interested in UX design Research
 - 🌱 I’m currently learning python and Java
-- 💞️ I’m looking to collaborate on as of now no one... I wouldl like to create more projects/ working on this 
+- 💞️ I’m looking to collaborate on as of now no one... I am currently working on a project
 - 📫 How to reach me here or erikalinares1989@gmail.com
 
 <!---
