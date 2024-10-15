@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eriimarie
 - 👀 I’m interested in Data Science/ GIS
-- 🌱 I’m currently learning python and Java
-- 💞️ I’m looking to collaborate on creating Mobile Applications as of now no one... I am currently working on multiple projects through independent work
+- 🌱 I’m currently learning Stocks and Spatial Analysis for Data Science
+- 💞️ I’m looking to learn more GIS and how can make a differences
 - 📫 How to reach me here or erikamarielinares@gmail.com
 
 <!---
