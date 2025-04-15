@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @eriimarie
-- 👀 I’m interested in Data Science/ GIS
-- 🌱 I’m currently learning Stocks and Spatial Analysis for Data Science
-- 💞️ I’m looking to learn more GIS and how can make a differences
-- 📫 How to reach me here or erikamarielinares@gmail.com
+👋 Hi, I’m @eriimarie
+	👀 Passionate about Data Science & GIS
+	🌱 Currently learning Data Governance, Machine Learning & Spatial Analysis
+	💞️ On a quest for heart-driven adventures in the Data Space
+	📫 Reach me here or at elin.dataspace@gmail.com
+	✍🏻 Medium: @elin.dataspace | Clark Kent’s pal | Dashboard magician | Funalyzer | Geospatial apprentice (in progress)
+
 
 <!---
 eriimarie/eriimarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
