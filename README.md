@@ -72,6 +72,10 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 
+# Thanks for stopping by! If you’re a fan of Clark Kent and his journey into the world of Data and Machine Learning, you’re in the right place. My pal Elin will definitely appreciate it.
+
+# Check out more stories of Clark Kent’s adventures learning Python, Data, and Machine Learning in my Medium article: [Python - My New Superpower.](https://medium.com/@elin.dataspace/python-my-new-superpower-6997f265d419)
+
 <!---
 eriimarie/eriimarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
