@@ -6,8 +6,8 @@
 	✍🏻 Medium: @elin.dataspace | Clark Kent’s pal | Dashboard magician | Funalyzer | Geospatial apprentice (in progress)
 
 ## Places where you can find me:
-Medium: @elin.dataspace
-LinkedIn: https://www.linkedin.com/in/julesmarielinares35/
+- Medium: @elin.dataspace
+- LinkedIn: https://www.linkedin.com/in/julesmarielinares35/
 
 <!---
 eriimarie/eriimarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
