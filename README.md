@@ -10,6 +10,7 @@
 - LinkedIn: https://www.linkedin.com/in/julesmarielinares35/
 - Data Science Website: https://erikalinares19894.wixsite.com/youngmi/courses
 - Tableau: https://public.tableau.com/app/profile/erika.linares/vizzes
+- Random Data Science Blog: https://alyxcoder-d840d.stackbit.app/blog/post-four/
 
 ## Currently Working on
 - Data Analysis Google Certification
