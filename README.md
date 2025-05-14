@@ -23,7 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-007ACC?style=for-the-badge&logo=sas&logoColor=white)
-!![Spatial Analysis](https://img.shields.io/badge/Spatial_Analysis-3A6EA5?style=for-the-badge&logo=globe&logoColor=white)
+![Spatial Analysis](https://img.shields.io/badge/Spatial_Analysis-3A6EA5?style=for-the-badge&logo=globe&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=esri&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-232F3E?style=for-the-badge&logo=python&logoColor=white)
