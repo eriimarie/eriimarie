@@ -8,6 +8,7 @@
 ## Places where you can find me:
 - Medium: @elin.dataspace
 - LinkedIn: https://www.linkedin.com/in/julesmarielinares35/
+- Data Science Website: https://erikalinares19894.wixsite.com/youngmi/courses
 
 <!---
 eriimarie/eriimarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
