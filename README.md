@@ -2,11 +2,11 @@
 	👀 Passionate about Data Science & Data Visualization
 	🌱 Currently learning Data Engineering, Machine Learning & Spatial Analysis
 	💞️ On a quest for heart-driven adventures in the Data Space
-	📫 Reach me here or at elin.dataspace@gmail.com
-	✍🏻 Medium: @elin.dataspace | Clark Kent’s pal | Dashboard magician | Funalyzer | Geospatial + Data engineering apprentice (in progress)
+	📫 Reach me here or at erikamarielinares@outlook.com
+	✍🏻 Medium: @@erikamjlinares | Clark Kent’s pal | Dashboard magician | Funalyzer | Geospatial + Data engineering apprentice (in progress)
 
 ## Places where you can find me:
-- Medium: @elin.dataspace
+- Medium: @erikamjlinares
 - LinkedIn: https://www.linkedin.com/in/julesmarielinares35/
 - Data Science Website: https://erikalinares19894.wixsite.com/youngmi/courses
 - Tableau: https://public.tableau.com/app/profile/erika.linares/vizzes
