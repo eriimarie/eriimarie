@@ -1,9 +1,11 @@
 👋 Hi, I’m @eriimarie
 	👀 Passionate about Data Science & Data Visualization
-	🌱 Currently learning Data Engineering, Machine Learning & Spatial Analysis
+	🌱 Currently Machine Learning Model and Continue with Databases 
 	💞️ On a quest for heart-driven adventures in the Data Space
 	📫 Reach me here or at erikamarielinares@outlook.com
-	✍🏻 Medium: @@erikamjlinares | Clark Kent’s pal | Dashboard magician | Funalyzer | Geospatial + Data engineering apprentice (in progress)
+	👩‍🔬 Learning more about Research & Future Book MentalSportRewire
+	✍🏻 Medium: @erikamjlinares | Clark Kent’s pal | Dashboard magician | Funalyzer | Data Science apprentice (in progress)
+	
 
 ## Places where you can find me:
 - Medium: @erikamjlinares
@@ -13,7 +15,7 @@
 - Random Data Science Blog: https://alyxcoder-d840d.stackbit.app
 
 ## Currently Working on
-- Data Analysis Google Certification
+- Research Certification
 - Azure Data engineering Certification
 
 ## Technicall Skills 
