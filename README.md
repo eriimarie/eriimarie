@@ -3,7 +3,7 @@
 	🌱 Currently Machine Learning Model and Continue with Databases 
 	💞️ On a quest for heart-driven adventures in the Data Space
 	📫 Reach me here or at erikamarielinares@outlook.com
-	👩‍🔬 Learning more about Research & Future Book MentalSportRewire
+	👩‍🔬 Learning more about Research & Future Book "Mental Sport Rewire"
 	✍🏻 Medium: @erikamjlinares | Clark Kent’s pal | Dashboard magician | Funalyzer | Data Science apprentice (in progress)
 	
 
